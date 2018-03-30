@@ -1,0 +1,24 @@
+---
+layout: default
+description: Grant Van Horn
+---
+
+<div id="posts">
+  <h1>About</h1>
+
+  <p>I am a PhD student at Caltech, advised by <a href="http://www.vision.caltech.edu/Perona.html">Pietro Perona</a>. I did my BS and MS at UCSD where I was advised by <a href="https://vision.cornell.edu/se3/people/serge-belongie/">Serge Belongie</a>. My research work focuses on efficient dataset collection and fine-grained visual categorization, particularly for the natural world. I work closely with <a href="https://inaturalist.org">iNaturalist</a> and the <a href="http://www.birds.cornell.edu/">Cornell Lab of Ornithology</a> where I help put my research into production.</p>
+
+  <h1>Posts</h1>
+  <ul>
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date: "%Y-%m-%d" }}</span> - <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <h1>Datasets</h1>
+  <ul>
+    <li><a href="https://github.com/visipedia/inat_comp">iNaturalist 2018</a></li>
+    <li><a href="https://github.com/visipedia/inat_comp/tree/master/2017">iNaturalist 2017</a></li>
+    <li><a href="http://dl.allaboutbirds.org/nabirds">North American Birds (NABirds)</a></li>
+  </ul>
+</div>

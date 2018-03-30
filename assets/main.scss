@@ -1,0 +1,21 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "{{ site.theme }}";
+
+footer svg {
+    fill: rgb(1, 151, 200);
+    width: 18px;
+    margin-right: 10px;
+}
+
+.site-header {
+    border-top: 5px solid rgb(1, 151, 200);
+    border-bottom: 0px;
+    padding-top: 10px;
+}
+
+.site-footer {
+    border-top: 0px;
+}
