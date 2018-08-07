@@ -17,7 +17,10 @@ ECCV 2018, Munich, Germany
   address={Munich, Germany}
 }
 ```
+<br>
+<br>
 
+---
 ### "Lean Multiclass Crowdsourcing"
 Grant Van Horn, Steve Branson, Scott Loarie, Serge Belongie, Pietro Perona  
 CVPR 2018, Salt Lake City, Utah  
