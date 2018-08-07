@@ -4,6 +4,20 @@ title: "Publications"
 permalink: "/pubs.html"
 ---
 
+### "Recognition in Terra Incognita"
+Sara Beery, Grant Van Horn, Pietro Perona  
+ECCV 2018, Munich, Germany  
+[[pdf](/assets/papers/recognition_in_terra_incognita.pdf)]
+```
+@inproceedings{beery2018rec,
+  title={Recognition in Terra Incognita},
+  author={Beery, Sara and Van Horn, Grant and Perona, Pietro},
+  booktitle={Proceedings of the European Conference on Computer Vision},
+  year={2018},
+  address={Munich, Germany}
+}
+```
+
 ### "Lean Multiclass Crowdsourcing"
 Grant Van Horn, Steve Branson, Scott Loarie, Serge Belongie, Pietro Perona  
 CVPR 2018, Salt Lake City, Utah  
@@ -11,7 +25,7 @@ CVPR 2018, Salt Lake City, Utah
 ```
 @inproceedings{gvanhorn2018lean,
   title={Lean Multiclass Crowdsourcing},
-  author={Van Horn, Grant and Branson, Steve and Loarie, Scott and Belongie, Serge and Perona, Pietro}
+  author={Van Horn, Grant and Branson, Steve and Loarie, Scott and Belongie, Serge and Perona, Pietro},
   booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
   year={2018},
   address={Salt Lake City, UT}
