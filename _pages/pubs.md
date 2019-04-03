@@ -23,7 +23,7 @@ ECCV 2018, Munich, Germany
 
 ### "An investigation into bio-inspired sonar search performance"
 Joseph R Edwards, Sara Beery, Kristen E Railey  
-The Journal of the Acoustical Society of America 2016  
+The Journal of the Acoustical Society of America, 2016  
 [[link](https://asa.scitation.org/doi/abs/10.1121/1.4969180)]
 ```
 @article{edwards2016investigation,
