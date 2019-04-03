@@ -12,5 +12,6 @@ include: ['_pages']
 #  - jekyll-feed
 exclude:
   - README.md
+  - _posts
 header_pages:
   - _pages/pubs.md
