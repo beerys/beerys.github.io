@@ -10,6 +10,18 @@ footer svg {
     margin-right: 10px;
 }
 
+a, a:visited, a:active {
+    // color: #72d218;
+    color: #666666;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: rgb(84, 213, 245);
+    text-decoration: underline;
+}
+
+
 .site-header {
     border-top: 5px solid rgb(84, 213, 245);
     border-bottom: 0px;
