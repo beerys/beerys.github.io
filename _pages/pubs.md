@@ -20,25 +20,30 @@ ECCV 2018, Munich, Germany
 <br>
 <br>
 ---
+
 ### "An investigation into bio-inspired sonar search performance"
-Joseph R Edwards, Sara Beery, Kristen E Railey 
-The Journal of the Acoustical Society of America 2016  
-[link](https://asa.scitation.org/doi/abs/10.1121/1.4969180)
+Joseph R Edwards, Sara Beery, Kristen E Railey  
+The Journal of the Acoustical Society of America, 2016  
+[[link](https://asa.scitation.org/doi/abs/10.1121/1.4969180)]
 ```
-@inproceedings{gvanhorn2018inat,
-  title={The iNaturalist Species Classification and Detection Dataset},
-  author={Van Horn, Grant and Mac Aodha, Oisin and Song, Yang and Cui, Yin and Sun, Chen and Shepard, Alex and Adam, Hartwig and Perona, Pietro and Belongie, Serge},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  year={2018},
-  address={Salt Lake City, UT}
+@article{edwards2016investigation,
+  title={An investigation into bio-inspired sonar search performance},
+  author={Edwards, Joseph R and Beery, Sara and Railey, Kristen E},
+  journal={The Journal of the Acoustical Society of America},
+  volume={140},
+  number={4},
+  pages={2967--2967},
+  year={2016},
+  publisher={ASA}
 }
 ```
 <br>
 <br>
 ---
+
 ### "Finding areas of motion in camera trap images"
 Agnieszka Miguel, Sara Beery, Erica Flores, Loren Klemesrud  
-ICIP 2016, Phoenix, Arizona 
+ICIP 2016, Phoenix, Arizona  
 [[pdf](/assets/papers/finding_areas_of_motion.pdf)]
 ```
 @inproceedings{miguel2016finding,
