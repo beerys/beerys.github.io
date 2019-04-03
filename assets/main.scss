@@ -4,6 +4,11 @@
 
 @import "{{ site.theme }}";
 
+body {
+    font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+
 footer svg {
     fill: rgb(84, 213, 245);
     width: 18px;
