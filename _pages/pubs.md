@@ -2,6 +2,7 @@
 layout: default
 title: "Publications"
 permalink: "/pubs.html"
+---
 
 ### "Recognition in Terra Incognita"
 Sara Beery, Grant Van Horn, Pietro Perona  
