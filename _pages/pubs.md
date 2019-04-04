@@ -70,7 +70,7 @@ Presentation
 <br>
 
 ---
-### "The iWildcam 2018 Challenge Dataset"
+### "The iWildcam Challenge Dataset"
 Sara Beery, Oisin MacAodha, Grant van Horn, Pietro Perona  
 The Fifth [Fine-Grained Visual Categorization Workshop](https://sites.google.com/view/fgvc5/program) at CVPR 2018, Salt Lake City, Utah    
 Poster  
