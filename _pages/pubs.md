@@ -59,7 +59,7 @@ ICIP 2016, Phoenix, Arizona
 
 ---
 
-# Workshop Papers
+## Workshop Papers
 
 ---
 ### "Recognition for Camera Traps in Unknown Territory"
