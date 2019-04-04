@@ -18,8 +18,6 @@ ECCV 2018, Munich, Germany
   address={Munich, Germany}
 }
 ```
-<br>
-<br>
 
 ---
 ### "An investigation into bio-inspired sonar search performance"
@@ -38,8 +36,6 @@ The Journal of the Acoustical Society of America, 2016
   publisher={ASA}
 }
 ```
-<br>
-<br>
 
 ---
 ### "Finding areas of motion in camera trap images"
@@ -66,8 +62,7 @@ ICIP 2016, Phoenix, Arizona
 Sara Beery, Grant van Horn, Pietro Perona  
 [AI for Wildlife Conservation Workshop](https://sites.google.com/a/usc.edu/aiwc/accepted-papers) at the Federated Artificial Intelligence Meeting (FAIM) 2018, Stockholm, Sweden    
 Presentation  
-<br>
-<br>
+
 
 ---
 ### "The iWildcam Challenge Dataset"
