@@ -55,3 +55,22 @@ ICIP 2016, Phoenix, Arizona
   organization={IEEE}
 }
 ```
+
+---
+# Workshop Papers
+---
+
+### "Recognition for Camera Traps in Unknown Territory"
+Sara Beery, Grant van Horn, Pietro Perona  
+[AI for Wildlife Conservation Workshop](https://sites.google.com/a/usc.edu/aiwc/accepted-papers) at the Federated Artificial Intelligence Meeting (FAIM) 2018, Stockholm, Sweden    
+Presentation  
+<br>
+<br>
+---
+
+### "The iWildcam 2018 Challenge Dataset"
+Sara Beery, Oisin MacAodha, Grant van Horn, Pietro Perona  
+The Fifth [Fine-Grained Visual Categorization Workshop](https://sites.google.com/view/fgvc5/program) at CVPR 2018, Salt Lake City, Utah    
+Poster  
+
+
