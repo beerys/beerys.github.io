@@ -18,7 +18,7 @@ ECCV 2018, Munich, Germany
 }
 ```
 
-
+---
 ### "An investigation into bio-inspired sonar search performance"
 Joseph R Edwards, Sara Beery, Kristen E Railey  
 The Journal of the Acoustical Society of America, 2016  
@@ -37,7 +37,7 @@ The Journal of the Acoustical Society of America, 2016
 ```
 
 
-
+---
 ### "Finding areas of motion in camera trap images"
 Agnieszka Miguel, Sara Beery, Erica Flores, Loren Klemesrud  
 ICIP 2016, Phoenix, Arizona  
@@ -57,7 +57,7 @@ ICIP 2016, Phoenix, Arizona
 ## Workshop Papers
 
 
-
+---
 ### "Recognition for Camera Traps in Unknown Territory"
 Sara Beery, Grant van Horn, Pietro Perona  
 [AI for Wildlife Conservation Workshop](https://sites.google.com/a/usc.edu/aiwc/accepted-papers) at the Federated Artificial Intelligence Meeting (FAIM) 2018, Stockholm, Sweden    
@@ -65,7 +65,7 @@ Presentation
 
 
 
-
+---
 ### "The iWildcam Challenge Dataset"
 Sara Beery, Oisin MacAodha, Grant van Horn, Pietro Perona  
 The Fifth [Fine-Grained Visual Categorization Workshop](https://sites.google.com/view/fgvc5/program) at CVPR 2018, Salt Lake City, Utah    
