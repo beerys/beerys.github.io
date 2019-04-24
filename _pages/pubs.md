@@ -2,6 +2,22 @@
 layout: default
 title: "Publications"
 permalink: "/pubs.html"
+
+---
+
+### "Synthetic Examples Improve Generalization for Rare Classes"
+Sara Beery, Yang Liu, Dan Morris, Jim Piavis, Ashish Kapoor, Markus Meister, Pietro Perona  
+ECCV 2018, Munich, Germany  
+[[pdf](/assets/papers/synthetic_examples_improve.pdf)][[arxiv](https://arxiv.org/abs/1904.05916)]
+```
+@article{beery2019synthetic,
+  title={Synthetic Examples Improve Generalization for Rare Classes},
+  author={Beery, Sara and Liu, Yang and Morris, Dan and Piavis, Jim and Kapoor, Ashish and Meister, Markus and Perona, Pietro},
+  journal={arXiv preprint arXiv:1904.05916},
+  year={2019}
+}
+```
+
 ---
 
 ### "Recognition in Terra Incognita"
@@ -66,7 +82,7 @@ Presentation
   
 
 ---
-### "The iWildcam Challenge Dataset"
+### "The iWildcam 2018 Challenge Dataset"
 Sara Beery, Oisin MacAodha, Grant van Horn, Pietro Perona  
 The Fifth [Fine-Grained Visual Categorization Workshop](https://sites.google.com/view/fgvc5/program) at CVPR 2018, Salt Lake City, Utah    
 Poster  
