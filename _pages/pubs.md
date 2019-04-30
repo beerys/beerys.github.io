@@ -6,8 +6,7 @@ permalink: "/pubs.html"
 ---
 
 ### "Synthetic Examples Improve Generalization for Rare Classes"
-Sara Beery, Yang Liu, Dan Morris, Jim Piavis, Ashish Kapoor, Markus Meister, Pietro Perona  
-ECCV 2018, Munich, Germany  
+Sara Beery, Yang Liu, Dan Morris, Jim Piavis, Ashish Kapoor, Markus Meister, Pietro Perona   
 [[pdf](/assets/papers/synthetic_examples_improve.pdf)][[arxiv](https://arxiv.org/abs/1904.05916)]
 ```
 @article{beery2019synthetic,
