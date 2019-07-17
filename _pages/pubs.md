@@ -73,11 +73,18 @@ ICIP 2016, Phoenix, Arizona
 ## Workshop Papers
   
 ---
+### "Efficient Pipeline for Camera Trap Image Review
+Sara Beery, Dan Morris, Siyu Yang
+[Data Mining and AI for Canservation]() at Knowledge Discovery and Data (KDD) 2019, Anchorage, Alaska
+Oral
+[[pdf](/assets/papers/EfficientPipeline.pdf)]
+
+
+---
 ### "Recognition for Camera Traps in Unknown Territory"
 Sara Beery, Grant van Horn, Pietro Perona  
 [AI for Wildlife Conservation Workshop](https://sites.google.com/a/usc.edu/aiwc/accepted-papers) at the Federated Artificial Intelligence Meeting (FAIM) 2018, Stockholm, Sweden    
-Presentation  
-  
+Oral  
   
 
 ---
