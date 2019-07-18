@@ -88,6 +88,21 @@ Oral
 ```
 
 ---
+### "The iWildCam 2019 Challenge Dataset"
+Sara Beery, Dan Morris, Pietro Perona  
+The Sixth [Fine-Grained Visual Categorization Workshop](https://sites.google.com/corp/usc.edu/kdd19-dmaic-workshop) at CVPR 2019, Long Beach, California 
+Oral  
+[[pdf](/assets/papers/iWildCam2019.pdf)]  
+```
+@article{beery2019iwildcam,
+ title={The iWildCam 2019 Challenge Dataset},
+ author={Beery, Sara and Morris, Dan and Perona, Pietro},
+ journal={arXiv preprint arXiv:1907.07617},
+ year={2019}
+}
+```
+
+---
 ### "Recognition for Camera Traps in Unknown Territory"
 Sara Beery, Grant van Horn, Pietro Perona  
 [AI for Wildlife Conservation Workshop](https://sites.google.com/a/usc.edu/aiwc/accepted-papers) at the Federated Artificial Intelligence Meeting (FAIM) 2018, Stockholm, Sweden    
