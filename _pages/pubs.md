@@ -75,7 +75,7 @@ ICIP 2016, Phoenix, Arizona
 ---
 ### "Efficient Pipeline for Camera Trap Image Review"
 Sara Beery, Dan Morris, Siyu Yang  
-[Data Mining and AI for Canservation]() at Knowledge Discovery and Data (KDD) 2019, Anchorage, Alaska  
+[Data Mining and AI for Conservation](https://sites.google.com/corp/usc.edu/kdd19-dmaic-workshop) at Knowledge Discovery and Data (KDD) 2019, Anchorage, Alaska  
 Oral  
 [[pdf](/assets/papers/EfficientPipeline.pdf)]  
 ```
