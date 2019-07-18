@@ -73,12 +73,19 @@ ICIP 2016, Phoenix, Arizona
 ## Workshop Papers
   
 ---
-### "Efficient Pipeline for Camera Trap Image Review
-Sara Beery, Dan Morris, Siyu Yang
-[Data Mining and AI for Canservation]() at Knowledge Discovery and Data (KDD) 2019, Anchorage, Alaska
-Oral
-[[pdf](/assets/papers/EfficientPipeline.pdf)]
-
+### "Efficient Pipeline for Camera Trap Image Review"
+Sara Beery, Dan Morris, Siyu Yang  
+[Data Mining and AI for Canservation]() at Knowledge Discovery and Data (KDD) 2019, Anchorage, Alaska  
+Oral  
+[[pdf](/assets/papers/EfficientPipeline.pdf)]  
+```
+@article{beery2019efficient,
+  title={Efficient Pipeline for Camera Trap Image Review},
+  author={Beery, Sara and Morris, Dan and Yang, Siyu},
+  journal={arXiv preprint arXiv:1907.06772},
+  year={2019}
+}
+```
 
 ---
 ### "Recognition for Camera Traps in Unknown Territory"
@@ -91,6 +98,14 @@ Oral
 ### "The iWildcam 2018 Challenge Dataset"
 Sara Beery, Oisin MacAodha, Grant van Horn, Pietro Perona  
 The Fifth [Fine-Grained Visual Categorization Workshop](https://sites.google.com/view/fgvc5/program) at CVPR 2018, Salt Lake City, Utah    
-Poster  
-
+Poster    
+[[pdf](/assets/papers/iWildCam2018.pdf)]
+```
+@article{beery2018iwildcam,
+  title={The iWildCam 2018 Challenge Dataset},
+  author={Beery, Sara and van Horn, Grant and MacAodha, Oisin and Perona, Pietro},
+  journal={arXiv preprint arXiv:1904.05986},
+  year={2018}
+}
+```
 
