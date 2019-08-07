@@ -92,7 +92,7 @@ Selected to be a featured poster at the main KDD conference Earth Day celebratio
 ### "The iWildCam 2019 Challenge Dataset"
 Sara Beery, Dan Morris, Pietro Perona  
 The Sixth [Fine-Grained Visual Categorization Workshop](https://sites.google.com/corp/usc.edu/kdd19-dmaic-workshop) at CVPR 2019, Long Beach, California 
-Oral  
+Oral   
 [[pdf](/assets/papers/iWildCam2019.pdf)]  
 ```
 @article{beery2019iwildcam,
