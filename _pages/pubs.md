@@ -6,12 +6,12 @@ permalink: "/pubs.html"
 ---
 
 ### "Synthetic Examples Improve Generalization for Rare Classes"
-Sara Beery, Yang Liu, Dan Morris, Jim Piavis, Ashish Kapoor, Markus Meister, Pietro Perona   
+Sara Beery, Yang Liu, Dan Morris, Jim Piavis, Ashish Kapoor, Markus Meister, Neel Joshi, Pietro Perona   
 [[pdf](/assets/papers/synthetic_examples_improve.pdf)][[arxiv](https://arxiv.org/abs/1904.05916)]
 ```
 @article{beery2019synthetic,
   title={Synthetic Examples Improve Generalization for Rare Classes},
-  author={Beery, Sara and Liu, Yang and Morris, Dan and Piavis, Jim and Kapoor, Ashish and Meister, Markus and Perona, Pietro},
+  author={Beery, Sara and Liu, Yang and Morris, Dan and Piavis, Jim and Kapoor, Ashish and Meister, Markus and Joshi, Neel and Perona, Pietro},
   journal={arXiv preprint arXiv:1904.05916},
   year={2019}
 }
@@ -77,6 +77,7 @@ ICIP 2016, Phoenix, Arizona
 Sara Beery, Dan Morris, Siyu Yang  
 [Data Mining and AI for Conservation](https://sites.google.com/corp/usc.edu/kdd19-dmaic-workshop) at Knowledge Discovery and Data (KDD) 2019, Anchorage, Alaska  
 Oral  
+Selected to be a featured poster at the main KDD conference Earth Day celebration
 [[pdf](/assets/papers/EfficientPipeline.pdf)]  
 ```
 @article{beery2019efficient,
