@@ -77,7 +77,7 @@ ICIP 2016, Phoenix, Arizona
 Sara Beery, Dan Morris, Siyu Yang  
 [Data Mining and AI for Conservation](https://sites.google.com/corp/usc.edu/kdd19-dmaic-workshop) at Knowledge Discovery and Data (KDD) 2019, Anchorage, Alaska  
 Oral  
-Selected to be a featured poster at the main KDD conference Earth Day celebration
+Selected to be a featured poster at the main KDD conference Earth Day celebration  
 [[pdf](/assets/papers/EfficientPipeline.pdf)]  
 ```
 @article{beery2019efficient,
