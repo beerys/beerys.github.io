@@ -22,7 +22,7 @@ Sara Beery, Yang Liu, Dan Morris, Jim Piavis, Ashish Kapoor, Markus Meister, Nee
 ### "Recognition in Terra Incognita"
 Sara Beery, Grant Van Horn, Pietro Perona  
 ECCV 2018, Munich, Germany  
-[[pdf](/assets/papers/recognition_in_terra_incognita.pdf)]
+[[pdf](/assets/papers/recognition-terra-incognita.pdf)]
 ```
 @inproceedings{beery2018rec,
   title={Recognition in Terra Incognita},
