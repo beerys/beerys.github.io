@@ -75,7 +75,7 @@ ICIP 2016, Phoenix, Arizona
 
 ---
 ### "Long-term context for species detection"
-Sara Beery
+Sara Beery  
 [Camera Trap Technology Symposium](https://ecodatamanagement.com/symposium/) Mountain View, California   
 Invited Talk  
 [[recording](https://www.youtube.com/watch?v=idhUGrkNfoc)] 
