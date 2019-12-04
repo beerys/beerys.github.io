@@ -71,8 +71,41 @@ ICIP 2016, Phoenix, Arizona
 ```
   
   
-## Workshop Papers
-  
+## Workshop Papers and Talks
+
+---
+### "Long-term context for species detection"
+Sara Beery
+[Camera Trap Technology Symposium](https://ecodatamanagement.com/symposium/) Mountain View, California
+Invited Talk 
+[[recording](https://www.youtube.com/watch?v=idhUGrkNfoc)] 
+
+
+---
+### "Camera traps: generalization, sample efficiency, best practices, benchmarks, and de-siloing data"
+Sara Beery
+[Computer Vision for Wildlife Conservation (CVWC)](https://cvwc2019.github.io/program.html) at ICCV 2019, Seoul, Korea  
+Invited Talk 
+[[slides](https://cvwc2019.github.io/talk/Sara_CVWC.pdf)]  
+
+---
+### "Efficient Pipeline for Automating Species ID in New Camera Trap Projects"
+Sara Beery, Dan Morris, Siyu Yang, Marcel Simon, Arash Norouzzadeh, Neel Joshi
+[Symposium on advancing biodiversity research through artificial intelligence (SS47)](https://biodiversitynext.org/list-of-symposia-and-workshops/) at BiodiversityNext 2019, Amsterdam, The Netherlands  
+Oral    
+[[link](https://biss.pensoft.net/article/37222)]  
+```
+@article{beery2019efficient,
+  title={Efficient Pipeline for Automating Species ID in new Camera Trap Projects},
+  author={Beery, Sara and Morris, Dan and Yang, Siyu and Simon, Marcel and Norouzzadeh, Arash and Joshi, Neel},
+  journal={Biodiversity Information Science and Standards},
+  volume={3},
+  pages={e37222},
+  year={2019},
+  publisher={Pensoft Publishers}
+}
+```
+
 ---
 ### "Efficient Pipeline for Camera Trap Image Review"
 Sara Beery, Dan Morris, Siyu Yang  
