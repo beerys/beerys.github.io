@@ -83,14 +83,14 @@ Invited Talk
 
 ---
 ### "Camera traps: generalization, sample efficiency, best practices, benchmarks, and de-siloing data"
-Sara Beery
-[Computer Vision for Wildlife Conservation (CVWC)](https://cvwc2019.github.io/program.html) at ICCV 2019, Seoul, Korea  
-Invited Talk 
+Sara Beery  
+[Computer Vision for Wildlife Conservation (CVWC)](https://cvwc2019.github.io/program.html) at ICCV 2019, Seoul, Korea   
+Invited Talk  
 [[slides](https://cvwc2019.github.io/talk/Sara_CVWC.pdf)]  
 
 ---
 ### "Efficient Pipeline for Automating Species ID in New Camera Trap Projects"
-Sara Beery, Dan Morris, Siyu Yang, Marcel Simon, Arash Norouzzadeh, Neel Joshi
+Sara Beery, Dan Morris, Siyu Yang, Marcel Simon, Arash Norouzzadeh, Neel Joshi  
 [Symposium on advancing biodiversity research through artificial intelligence (SS47)](https://biodiversitynext.org/list-of-symposia-and-workshops/) at BiodiversityNext 2019, Amsterdam, The Netherlands  
 Oral    
 [[link](https://biss.pensoft.net/article/37222)]  
