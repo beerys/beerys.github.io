@@ -44,7 +44,7 @@ Spoke at and helped organize the [Camera Trap Technology Symposium](https://ecod
 Invited to represent the CV/ML community in the [WildLabs Virtual Meetup](https://www.wildlabs.net/virtual-meetups-season-3) on [Camera Trapping](https://www.wildlabs.net/resources/community-announcements/wildlabs-virtual-meetup-recording-camera-trapping). I spoke alongside [Roland Kays](https://naturalsciences.org/staff/roland-kays), Research Professor at North Carolina State University and the Head of the Biodiversity Lab at the NC Museum of Natural Sciences, and [Sam Seccombe](https://www.zsl.org/conservation/how-we-work/conservation-technology/instant-detect), Technical Project Manager and Field Specialist in the Conservation Tech Unit at ZSL.
 
 ## 10/27/19
-Gave a talk, sat on a panel, and served in the program committee at the Computer Vision for Wildlife Conservation Workshop at ICCV 2019, in Seoul, South Korea.  My talk was titled *Camera traps: generalization, sample efficiency, best practices, benchmarks, and de-siloing data*.
+Gave a talk, sat on a panel, and served in the program committee at the [Computer Vision for Wildlife Conservation Workshop](https://cvwc2019.github.io/) at ICCV 2019, in Seoul, South Korea.  My talk was titled *Camera traps: generalization, sample efficiency, best practices, benchmarks, and de-siloing data*.
 
 ## 10/22/19 
 Presented an extended abstract, [*Efficient Pipeline for Automating Species ID in new
