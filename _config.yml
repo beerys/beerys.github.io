@@ -14,4 +14,4 @@ exclude:
   - README.md
 header_pages:
   - _pages/pubs.md
-#  - _pages/media.md
+  - _pages/news.md
