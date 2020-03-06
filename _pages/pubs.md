@@ -37,7 +37,7 @@ WACV 2020, Aspen, Colorado
 
 ---
 
-### "A deep active learning system for species identification and counting in camera trap images"
+### "A Deep Active Learning System for Species Identification and Counting in Camera Trap Images"
 Mohammad Sadegh Norouzzadeh, Dan Morris, Sara Beery, Neel Joshi, Nebojsa Jojic, Jeff Clune  
 [[arxiv](https://arxiv.org/abs/1910.09716)]
 ```
@@ -48,7 +48,6 @@ Mohammad Sadegh Norouzzadeh, Dan Morris, Sara Beery, Neel Joshi, Nebojsa Jojic, 
   year={2019}
 }
 ```
-
 
 ---
 
