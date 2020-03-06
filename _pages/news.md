@@ -57,5 +57,7 @@ Completed my Google Research Internship in Seattle, Washington and was invited t
 Saw 336 global teams participate in the second year of my kaggle camera trap challenge, [iWildCam 2019](https://www.kaggle.com/c/iwildcam-2019-fgvc6), as a part of the [Sixth Fine-Grained Visual Categorization Workshop](https://sites.google.com/corp/view/fgvc6/home) (FGVC) at CVPR 2019 in Long Beach, California.
 
 ## 05/13/19
-Started my summer research internship on the Visual Dynamics team at Google, working with [Jonathan Huang](https://research.google/people/JonathanHuang/).
+Started my summer research internship on the Visual Dynamics team at Google, working with [Jonathan Huang](https://research.google/people/JonathanHuang/) and [Wildlife Insights](https://www.wildlifeinsights.org/).
+
+
 
