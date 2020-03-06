@@ -23,7 +23,8 @@ CVPR 2020, Seattle, Washington
 ### "Synthetic Examples Improve Generalization for Rare Classes"
 Sara Beery, Yang Liu, Dan Morris, Jim Piavis, Ashish Kapoor, Markus Meister, Neel Joshi, Pietro Perona  
 WACV 2020, Aspen, Colorado  
-[[pdf](/assets/papers/synthetic_examples_improve.pdf)][[arxiv](https://arxiv.org/abs/1904.05916)]
+[[pdf](/assets/papers/synthetic_examples_improve.pdf)]  
+[[arxiv](https://arxiv.org/abs/1904.05916)]
 ```
 @inproceedings{beery2020synthetic,
   title={Synthetic examples improve generalization for rare classes},
@@ -33,6 +34,21 @@ WACV 2020, Aspen, Colorado
   year={2020}
 }
 ```
+
+---
+
+### "A deep active learning system for species identification and counting in camera trap images"
+Mohammad Sadegh Norouzzadeh, Dan Morris, Sara Beery, Neel Joshi, Nebojsa Jojic, Jeff Clune  
+[[arxiv](https://arxiv.org/abs/1910.09716)]
+```
+@article{norouzzadeh2019deep,
+  title={A deep active learning system for species identification and counting in camera trap images},
+  author={Norouzzadeh, Mohammad Sadegh and Morris, Dan and Beery, Sara and Joshi, Neel and Jojic, Nebojsa and Clune, Jeff},
+  journal={arXiv preprint arXiv:1910.09716},
+  year={2019}
+}
+```
+
 
 ---
 
@@ -121,6 +137,21 @@ Sara Beery
 [Computer Vision for Wildlife Conservation (CVWC)](https://cvwc2019.github.io/program.html) at ICCV 2019, Seoul, Korea   
 Invited Talk  
 [[slides](https://cvwc2019.github.io/talk/Sara_CVWC.pdf)]  
+
+---
+### "Training Machines to Identify Species using GBIF-mediated Datasets"
+Tim Robertson, Serge Belongie, Adam Hartwig, Christine Kaeser-Chen, Chenyang Zhang, Kiat Chuan Tan, Yulong Liu, Denis Brulé, Cédric Deltheil, Scott Loarie, Grant Van Horn, Oisin Mac Aodha, Sara Beery, Pietro Perona, Kyle Copas, John Waller  
+[Symposium on advancing biodiversity research through artificial intelligence (SS47)](https://biodiversitynext.org/list-of-symposia-and-workshops/) at BiodiversityNext 2019, Amsterdam, The Netherlands     
+[[link](https://vision.cornell.edu/se3/wp-content/uploads/2019/06/BISS_article_37230.pdf)]  
+```
+@article{robertson2019training,
+  title={Training Machines to Identify Species using GBIF-mediated Datasets},
+  author={Robertson, Tim and Belongie, Serge and Hartwig, Adam and Kaeser-Chen, Christine and Zhang, Chenyang and Tan, Kiat Chuan and Liu, Yulong and Brul{\'e}, Denis and Deltheil, C{\'e}dric and Loarie, Scott and others},
+  journal={Biodiversity Information Science and Standards},
+  year={2019},
+  publisher={Pensoft Publishers}
+}
+```
 
 ---
 ### "Efficient Pipeline for Automating Species ID in New Camera Trap Projects"
