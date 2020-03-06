@@ -5,16 +5,32 @@ permalink: "/pubs.html"
 
 ---
 
+### "Long Term Temporal Context for Per-Camera Object Detection"
+Sara Beery, Guanhang Wu, Vivek Rathod, Ronny Votel, Jonathan Huang
+CVPR 2020, Seattle, Washinton 
+[[arxiv](https://arxiv.org/abs/1912.03538)]
+```
+@article{beery2019long,
+  title={Long Term Temporal Context for Per-Camera Object Detection},
+  author={Beery, Sara and Wu, Guanhang and Rathod, Vivek and Votel, Ronny and Huang, Jonathan},
+  journal={arXiv preprint arXiv:1912.03538},
+  year={2019}
+}
+```
+
+---
+
 ### "Synthetic Examples Improve Generalization for Rare Classes"
 Sara Beery, Yang Liu, Dan Morris, Jim Piavis, Ashish Kapoor, Markus Meister, Neel Joshi, Pietro Perona  
 WACV 2020, Aspen, Colorado  
 [[pdf](/assets/papers/synthetic_examples_improve.pdf)][[arxiv](https://arxiv.org/abs/1904.05916)]
 ```
-@article{beery2019synthetic,
-  title={Synthetic Examples Improve Generalization for Rare Classes},
-  author={Beery, Sara and Liu, Yang and Morris, Dan and Piavis, Jim and Kapoor, Ashish and Meister, Markus and Joshi, Neel and Perona, Pietro},
-  journal={arXiv preprint arXiv:1904.05916},
-  year={2019}
+@inproceedings{beery2020synthetic,
+  title={Synthetic examples improve generalization for rare classes},
+  author={Beery, Sara and Liu, Yang and Morris, Dan and Piavis, Jim and Kapoor, Ashish and Joshi, Neel and Meister, Markus and Perona, Pietro},
+  booktitle={The IEEE Winter Conference on Applications of Computer Vision},
+  pages={863--873},
+  year={2020}
 }
 ```
 
