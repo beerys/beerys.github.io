@@ -48,7 +48,7 @@ Gave a talk, sat on a panel, and served in the program committee at the [Compute
 
 ## 10/22/19 
 Presented an extended abstract, [*Efficient Pipeline for Automating Species ID in new
-Camera Trap Projects*](https://biss.pensoft.net/article/37222), at [Biodiversity Next 2019](https://biodiversitynext.org/) in Leiden, The Netherlands. I was also a collaborating author on a second abstract, [*Training Machines to Identify Species using GBIF-mediated Datasets*](https://vision.cornell.edu/se3/wp-content/uploads/2019/06/BISS_article_37230.pdf), and was invited to speak on a panel on AI for Biodiversity.
+Camera Trap Projects*](https://biss.pensoft.net/article/37222), in the Symposium on advancing biodiversity research through artificial intelligence at [Biodiversity Next 2019](https://biodiversitynext.org/) in Leiden, The Netherlands. I was also a collaborating author on a second abstract, [*Training Machines to Identify Species using GBIF-mediated Datasets*](https://vision.cornell.edu/se3/wp-content/uploads/2019/06/BISS_article_37230.pdf), and was invited to speak on a panel on AI for Biodiversity.
 
 ## 08/01/19 
 Completed my Google Research Internship in Seattle, Washington and was invited to stay at Google as a Student Researcher throughout the academic year.
