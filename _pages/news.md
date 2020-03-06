@@ -11,10 +11,10 @@ Presented our work [*Synthetic Examples Improve Generalization for Rare Classes*
 Organized the [Deep Learning Methods and Applications for Animal Re-Identification Workshop](https://sites.google.com/corp/view/wacv2020animalreid/home) at WACV2020 aloing with Stefan Schneider and Jason Parham, and gave a talk titled *Animal Re-Identification from Camera Trap Images: Can We Deal with Low-Quality Data?*
 
 ## 2/25/20
-Gave an invited departmental seminar titled [*Computer Vision for Biodiversity Monitoring and Conservation*](https://bgc.yale.edu/event/seminar-computer-vision-biodiversity-monitoring-and-conservation) with Elijah Cole at the Yale Center for Biodiversity and Global Change
+Gave an invited departmental seminar titled [*Computer Vision for Biodiversity Monitoring and Conservation*](https://bgc.yale.edu/event/seminar-computer-vision-biodiversity-monitoring-and-conservation) with Elijah Cole at the [Yale Center for Biodiversity and Global Change](https://bgc.yale.edu/)
 
 ## 3/2/20
-Our paoer [*Long Term Temporal Context for Per-Camera Object Detection*](https://arxiv.org/abs/1912.03538) was accepted at CVPR 2020!
+Our paper [*Long Term Temporal Context for Per-Camera Object Detection*](https://arxiv.org/abs/1912.03538) was accepted at CVPR 2020!
 
 ## 2/21/20
 Gave a talk, [*Improving Computer Vision for Camera Traps Using Expert Intuition*](https://docs.google.com/presentation/d/1DDoATDaWcBDC9Uqz3ZOtxiA0EKoDpku4MGIk9uhUVUg/edit?usp=sharing) At the 2020 [Visipedia](https://sites.google.com/corp/visipedia.org/index) Retreat at Cornell Tech, which I also helped to organize
@@ -36,5 +36,8 @@ Designed and installed an ecological study using 100 camera traps at [Mpala Rese
 
 ## 12/16/19
 Passed my candidacy exam! My committee is [Yisong Yue](http://www.yisongyue.com/) (chair), [Pietro Perona](http://www.vision.caltech.edu/Perona.html), [Serge Belongie](https://vision.cornell.edu/se3/people/serge-belongie/), and [Katie Bouman](http://users.cms.caltech.edu/~klbouman/)
+
+## 11/7/20-11/8/20
+Spoke at and helped organize the [Camera Trap Technology Symposium](https://ecodatamanagement.com/symposium/) at Google. I gave a talk in the Machine Learning session and led a group Q&A. The talk can be viewed [here](https://www.youtube.com/watch?v=aBmM5PNVD8Q&t=1h22m2s).
 
 
