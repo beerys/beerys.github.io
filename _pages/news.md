@@ -50,14 +50,14 @@ Gave a talk, sat on a panel, and served in the program committee at the [Compute
 Presented an extended abstract, [*Efficient Pipeline for Automating Species ID in new
 Camera Trap Projects*](https://biss.pensoft.net/article/37222), in the Symposium on advancing biodiversity research through artificial intelligence at [Biodiversity Next 2019](https://biodiversitynext.org/) in Leiden, The Netherlands. I was also a collaborating author on a second abstract, [*Training Machines to Identify Species using GBIF-mediated Datasets*](https://vision.cornell.edu/se3/wp-content/uploads/2019/06/BISS_article_37230.pdf), and was invited to speak on a panel on AI for Biodiversity.
 
-## 08/01/19 
+## 08/30/19 
 Completed my Google Research Internship in Seattle, Washington and was invited to stay at Google as a Student Researcher throughout the academic year.
+
+## 08/05/19
+Gave an oral presentation, [Efficient Pipeline for Camera Trap Image Review](https://drive.google.com/file/d/12ycp6XMbhPXhjgmE7jqOKhMq6cDgBn5h/view) at the [Data Mining and AI for Conservation Workshop](https://sites.google.com/corp/usc.edu/kdd19-dmaic-workshop/home) at [KDD 2019](https://www.kdd.org/kdd2019/) in Anchorage, Alaska. Our paper was selected to be featured at the main KDD conference Earth Day celebration.
 
 ## 06/17/19
 Saw 336 global teams participate in the second year of my kaggle camera trap challenge, [iWildCam 2019](https://www.kaggle.com/c/iwildcam-2019-fgvc6), as a part of the [Sixth Fine-Grained Visual Categorization Workshop](https://sites.google.com/corp/view/fgvc6/home) (FGVC) at CVPR 2019 in Long Beach, California.
-
-## 04/15/19
-Gave an oral presentation, [Efficient Pipeline for Camera Trap Image Review](https://drive.google.com/file/d/12ycp6XMbhPXhjgmE7jqOKhMq6cDgBn5h/view) at the [Data Mining and AI for Conservation Workshop](https://sites.google.com/corp/usc.edu/kdd19-dmaic-workshop/home) at [KDD 2019](https://www.kdd.org/kdd2019/) in Anchorage, Alaska
 
 ## 05/13/19
 Started my summer research internship on the Visual Dynamics team at Google, working with [Jonathan Huang](https://research.google/people/JonathanHuang/) and [Wildlife Insights](https://www.wildlifeinsights.org/).
