@@ -90,12 +90,30 @@ ICIP 2016, Phoenix, Arizona
 ## Workshop Papers and Talks
 
 ---
+### "Animal Re-ID from Camera Traps: Can We Deal with Low-Quality Data?"
+Sara Beery  
+[Deep Learning Methods and Applications for Animal Re-Identification](https://sites.google.com/corp/view/wacv2020animalreid/home) at WACV2020, Aspen, Colorado   
+Invited Talk   
+
+---
+### "AI for Camera Traps - Challenges, Best Practices, Benchmarks, and De-Siloing Data"
+Sara Beery  
+[ICRAF Invited Seminar](http://www.worldagroforestry.org/) Nairobi, Kenya   
+Invited Talk   
+
+---
+### "AI for Camera Traps - Challenges, Best Practices, Benchmarks, and De-Siloing Data"
+Sara Beery  
+[WildLabs Virtual Meetup on Camera Trapping](https://www.wildlabs.net/virtual-meetups-season-3)  
+Invited Talk  
+[[recording](https://www.wildlabs.net/resources/community-announcements/wildlabs-virtual-meetup-recording-camera-trapping)] 
+
+---
 ### "Long-term context for species detection"
 Sara Beery  
 [Camera Trap Technology Symposium](https://ecodatamanagement.com/symposium/) Mountain View, California   
 Invited Talk  
 [[recording](https://www.youtube.com/watch?v=idhUGrkNfoc)] 
-
 
 ---
 ### "Camera traps: generalization, sample efficiency, best practices, benchmarks, and de-siloing data"
