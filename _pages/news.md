@@ -51,7 +51,7 @@ Presented an extended abstract, [*Efficient Pipeline for Automating Species ID i
 Camera Trap Projects*](https://biss.pensoft.net/article/37222), at [Biodiversity Next 2019](https://biodiversitynext.org/) in Leiden, The Netherlands. I was also a collaborating author on a second abstract, [*Training Machines to Identify Species using GBIF-mediated Datasets*](https://vision.cornell.edu/se3/wp-content/uploads/2019/06/BISS_article_37230.pdf), and was invited to speak on a panel on AI for Biodiversity.
 
 ## 08/01/19 
-Completed my Google Research Internship and was invited to stay at Google as a Student Researcher throughout the academic year.
+Completed my Google Research Internship in Seattle, Washington and was invited to stay at Google as a Student Researcher throughout the academic year.
 
 ## 06/17/19
 Saw 336 global teams participate in the second year of my kaggle camera trap challenge, [iWildCam 2019](https://www.kaggle.com/c/iwildcam-2019-fgvc6), as a part of the [Sixth Fine-Grained Visual Categorization Workshop](https://sites.google.com/corp/view/fgvc6/home) (FGVC) at CVPR 2019 in Long Beach, California.
