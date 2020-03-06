@@ -6,8 +6,8 @@ permalink: "/pubs.html"
 ---
 
 ### "Long Term Temporal Context for Per-Camera Object Detection"
-Sara Beery, Guanhang Wu, Vivek Rathod, Ronny Votel, Jonathan Huang
-CVPR 2020, Seattle, Washinton 
+Sara Beery, Guanhang Wu, Vivek Rathod, Ronny Votel, Jonathan Huang  
+CVPR 2020, Seattle, Washinton  
 [[arxiv](https://arxiv.org/abs/1912.03538)]
 ```
 @article{beery2019long,
