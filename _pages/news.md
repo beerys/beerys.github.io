@@ -8,7 +8,7 @@ permalink: "/news.html"
 Presented our work [*Synthetic Examples Improve Generalization for Rare Classes*](http://openaccess.thecvf.com/content_WACV_2020/papers/Beery_Synthetic_Examples_Improve_Generalization_for_Rare_Classes_WACV_2020_paper.pdf) at WACV2020 
 
 ## 3/1/20
-Organized the [Deep Learning Methods and Applications for Animal Re-Identification Workshop](https://sites.google.com/corp/view/wacv2020animalreid/home) at WACV2020 aloing with Stefan Schneider and Jason Parham, and gave a talk titled *Animal Re-Identification from Camera Trap Images: Can We Deal with Low-Quality Data?*
+Organized the [Deep Learning Methods and Applications for Animal Re-Identification Workshop](https://sites.google.com/corp/view/wacv2020animalreid/home) at WACV2020 along with Stefan Schneider and Jason Parham, and gave a talk titled *Animal Re-Identification from Camera Trap Images: Can We Deal with Low-Quality Data?*
 
 ## 2/25/20
 Gave an invited departmental seminar titled [*Computer Vision for Biodiversity Monitoring and Conservation*](https://bgc.yale.edu/event/seminar-computer-vision-biodiversity-monitoring-and-conservation) with Elijah Cole at the [Yale Center for Biodiversity and Global Change](https://bgc.yale.edu/)
@@ -37,7 +37,21 @@ Designed and installed an ecological study using 100 camera traps at [Mpala Rese
 ## 12/16/19
 Passed my candidacy exam! My committee is [Yisong Yue](http://www.yisongyue.com/) (chair), [Pietro Perona](http://www.vision.caltech.edu/Perona.html), [Serge Belongie](https://vision.cornell.edu/se3/people/serge-belongie/), and [Katie Bouman](http://users.cms.caltech.edu/~klbouman/)
 
-## 11/7/20-11/8/20
+## 11/7/19-11/8/19
 Spoke at and helped organize the [Camera Trap Technology Symposium](https://ecodatamanagement.com/symposium/) at Google. I gave a talk in the Machine Learning session and led a group Q&A. The talk can be viewed [here](https://www.youtube.com/watch?v=aBmM5PNVD8Q&t=1h22m2s).
 
+## 10/29/19
+Invited to represent the CV/ML community in the [WildLabs Virtual Meetup](https://www.wildlabs.net/virtual-meetups-season-3) on [Camera Trapping](https://www.wildlabs.net/resources/community-announcements/wildlabs-virtual-meetup-recording-camera-trapping). I spoke alongside [Roland Kays](https://naturalsciences.org/staff/roland-kays), Research Professor at North Carolina State University and the Head of the Biodiversity Lab at the NC Museum of Natural Sciences, and [Sam Seccombe](https://www.zsl.org/conservation/how-we-work/conservation-technology/instant-detect), Technical Project Manager and Field Specialist in the Conservation Tech Unit at ZSL.
 
+## 10/27/19
+Gave a talk, sat on a panel, and served in the program committee at the Computer Vision for Wildlife Conservation Workshop at ICCV 2019, in Seoul, South Korea.  My talk was titled *Camera traps: generalization, sample efficiency, best practices, benchmarks, and de-siloing data*.
+
+## 10/22/19 
+Presented an extended abstract, *Efficient Pipeline for Automating Species ID in new
+Camera Trap Projects*, at BiodiversityNext 2019 in Leiden, The Netherlands. I was also a collaborating author on a second abstract, *Training Machines to Identify Species using GBIF-mediated Datasets*, and was invited to speak on a panel on AI for Biodiversity.
+
+## 08/01/19 
+Completed my Google Research Internship and was invited to stay at Google as a Student Researcher throughout the academic year.
+
+## 06/17/19
+Saw 336 global teams participate in the second year of my kaggle camera trap challenge, [iWildCam 2019](https://www.kaggle.com/c/iwildcam-2019-fgvc6), as a part of the [Sixth Fine-Grained Visual Categorization Workshop](https://sites.google.com/corp/view/fgvc6/home) (FGVC) at CVPR 2019 in Long Beach, California. 
