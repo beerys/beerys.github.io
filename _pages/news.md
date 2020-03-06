@@ -11,7 +11,7 @@ Presented our work [*Synthetic Examples Improve Generalization for Rare Classes*
 Organized the [Deep Learning Methods and Applications for Animal Re-Identification Workshop](https://sites.google.com/corp/view/wacv2020animalreid/home) at WACV2020 along with Stefan Schneider and Jason Parham, and gave a talk titled *Animal Re-Identification from Camera Trap Images: Can We Deal with Low-Quality Data?*
 
 ## 2/25/20
-Gave an invited departmental seminar titled [*Computer Vision for Biodiversity Monitoring and Conservation*](https://bgc.yale.edu/event/seminar-computer-vision-biodiversity-monitoring-and-conservation) with [Elijah Cole](https://elijahcole.me/) at the [Yale Center for Biodiversity and Global Change](https://bgc.yale.edu/)
+Gave an invited departmental seminar titled [*Computer Vision for Biodiversity Monitoring and Conservation*](https://bgc.yale.edu/event/seminar-computer-vision-biodiversity-monitoring-and-conservation) with [Elijah Cole](https://elijahcole.me/) at the [Yale Center for Biodiversity and Global Change](https://bgc.yale.edu/). We also spent a few days visiting the [Jetz Lab](https://jetzlab.yale.edu/).
 
 ## 3/2/20
 Our paper [*Long Term Temporal Context for Per-Camera Object Detection*](https://arxiv.org/abs/1912.03538) was accepted at CVPR 2020!
