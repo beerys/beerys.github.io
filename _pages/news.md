@@ -4,6 +4,9 @@ title: "News"
 permalink: "/news.html"
 ---
 
+## 3/9/20
+Launched [iWildCam 2020](https://www.kaggle.com/c/iwildcam-2020-fgvc7/overview), our 3rd annual camera trap kaggle competition associated with the seventh [Fine-Grained Visual Categorization (FGVC)](https://sites.google.com/corp/view/fgvc7) Workshop at CVPR2020.
+
 ## 3/2/20
 Presented our work [*Synthetic Examples Improve Generalization for Rare Classes*](http://openaccess.thecvf.com/content_WACV_2020/papers/Beery_Synthetic_Examples_Improve_Generalization_for_Rare_Classes_WACV_2020_paper.pdf) at WACV2020.
 
