@@ -4,6 +4,9 @@ title: "News"
 permalink: "/news.html"
 ---
 
+## 4/3/2020
+Gave an invited talk for the [CompSust Open Graduate Seminar](https://www.compsust.net/cogs.php), titled *Improving Computer Vision for Camera Traps: Leveraging Practitioner Insight to Build Solutions for Real-World Challenges*. See the recording [here](https://www.youtube.com/watch?v=ddEZzCl7Lg4&list=PLzHDzaAtdYukGK8TyFT-P1sfZlSPtalA7).
+
 ## 3/9/20
 Launched [iWildCam 2020](https://www.kaggle.com/c/iwildcam-2020-fgvc7/overview), our 3rd annual camera trap kaggle competition associated with the seventh [Fine-Grained Visual Categorization (FGVC)](https://sites.google.com/corp/view/fgvc7) Workshop at CVPR2020.
 
