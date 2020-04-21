@@ -20,7 +20,7 @@ Organized the [Deep Learning Methods and Applications for Animal Re-Identificati
 Gave an invited departmental seminar titled [*Computer Vision for Biodiversity Monitoring and Conservation*](https://bgc.yale.edu/event/seminar-computer-vision-biodiversity-monitoring-and-conservation) with [Elijah Cole](https://elijahcole.me/) at the [Yale Center for Biodiversity and Global Change](https://bgc.yale.edu/). We also spent a few days visiting the [Jetz Lab](https://jetzlab.yale.edu/).
 
 ## 3/2/20
-Our paper [*Long Term Temporal Context for Per-Camera Object Detection*](https://arxiv.org/abs/1912.03538) was accepted at CVPR 2020!
+Our paper [*Context R-CNN: Long Term Temporal Context for Per-Camera Object Detection*](https://arxiv.org/abs/1912.03538) was accepted at CVPR 2020!
 
 ## 2/21/20
 Gave a talk, [*Improving Computer Vision for Camera Traps Using Expert Intuition*](https://docs.google.com/presentation/d/1DDoATDaWcBDC9Uqz3ZOtxiA0EKoDpku4MGIk9uhUVUg/edit?usp=sharing) At the 2020 [Visipedia](https://sites.google.com/corp/visipedia.org/index) Retreat at Cornell Tech, which I also helped to organize.
