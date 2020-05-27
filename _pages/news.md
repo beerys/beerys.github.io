@@ -8,7 +8,7 @@ permalink: "/news.html"
 The iWildCam 2020 Competition, focused on species identification in camera traps, ended with 126 participating temas from around the globe! See the final leaderboard [here](https://www.kaggle.com/c/iwildcam-2020-fgvc7/leaderboard).
 
 ## 5/26/2020
-Gave an invited lecture for Caltech EE/CNS/CS 148 (Selected Topics in Computational Vision), titled *Computer Vision for Conservation*. See the slides [here](assets/slides/ComputerVisionForConservationCS148_5_26_20.pdf).
+Gave an invited lecture for Caltech EE/CNS/CS 148 (Selected Topics in Computational Vision), titled *Computer Vision for Conservation*. See the slides [here](assets/ComputerVisionForConservationCS148_5_26_20.pdf).
 
 
 ## 4/3/2020
