@@ -4,6 +4,13 @@ title: "News"
 permalink: "/news.html"
 ---
 
+## 5/26/2020
+The iWildCam 2020 Competition, focused on species identification in camera traps, ended with 126 participating temas from around the globe! See the final leaderboard [here](https://www.kaggle.com/c/iwildcam-2020-fgvc7/leaderboard).
+
+## 5/26/2020
+Gave an invited lecture for Caltech EE/CNS/CS 148 (Selected Topics in Computational Vision), titled *Computer Vision for Conservation*. See the slides [here](assets/slides/ComputerVisionForConservationCS148_5_26_20.pdf).
+
+
 ## 4/3/2020
 Gave an invited talk for the [CompSust Open Graduate Seminar](https://www.compsust.net/cogs.php), titled *Improving Computer Vision for Camera Traps: Leveraging Practitioner Insight to Build Solutions for Real-World Challenges*. See the recording [here](https://www.youtube.com/watch?v=ddEZzCl7Lg4&list=PLzHDzaAtdYukGK8TyFT-P1sfZlSPtalA7).
 
