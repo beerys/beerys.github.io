@@ -8,6 +8,7 @@ permalink: "/pubs.html"
 ### "Context R-CNN: Long Term Temporal Context for Per-Camera Object Detection"
 Sara Beery, Guanhang Wu, Vivek Rathod, Ronny Votel, Jonathan Huang  
 CVPR 2020, Seattle, Washington  
+[[pdf](/assets/papers/Beery_Context_R-CNN_Long_Term_Temporal_Context_for_Per-Camera_Object_Detection_CVPR_2020_paper.pdf)]  
 [[arxiv](https://arxiv.org/abs/1912.03538)]
 ```
 @InProceedings{Beery_2020_CVPR,
