@@ -4,6 +4,21 @@ title: "News"
 permalink: "/news.html"
 ---
 
+## 6/26/20
+Published a Google AI Blog post about the Context R-CNN architecture, titled[*Leveraging Temporal Context for Object Detection*](https://ai.googleblog.com/2020/06/leveraging-temporal-context-for-object.html).
+
+## 6/25/20
+Gave an invited WILDLABS Tech Tutorial titled *How do I get started using machine learning for my camera traps?*, recording available [here](https://www.youtube.com/watch?v=5q0amc-i1Jk).
+
+## 6/19/20
+Presented the results of the 2020 iWildCam Competition and participated in a panel discussion with the winners at the seventh [Fine-Grained Visual Categorization (FGVC)](https://sites.google.com/corp/view/fgvc7) Workshop at CVPR 2020 at CVPR 2020.
+
+## 6/18/20
+Presented [*Context R-CNN: Long Term Temporal Context for Per-Camera Object Detection*](https://arxiv.org/abs/1912.03538) at CVPR 2020.
+
+## 6/14/20
+Presented [*Context R-CNN: Long Term Temporal Context for Per-Camera Object Detection*](https://arxiv.org/abs/1912.03538) at the [Women in Computer Vision Workshop](https://sites.google.com/corp/view/wicvworkshop-cvpr2020/) at CVPR 2020.
+
 ## 5/26/2020
 The iWildCam 2020 Competition, focused on species identification in camera traps, ended with 126 participating teams from around the globe! See the final leaderboard [here](https://www.kaggle.com/c/iwildcam-2020-fgvc7/leaderboard).
 
@@ -15,7 +30,7 @@ Gave an invited lecture for Caltech EE/CNS/CS 148 (Selected Topics in Computatio
 Gave an invited talk for the [CompSust Open Graduate Seminar](https://www.compsust.net/cogs.php), titled *Improving Computer Vision for Camera Traps: Leveraging Practitioner Insight to Build Solutions for Real-World Challenges*. See the recording [here](https://www.youtube.com/watch?v=ddEZzCl7Lg4&list=PLzHDzaAtdYukGK8TyFT-P1sfZlSPtalA7).
 
 ## 3/9/20
-Launched [iWildCam 2020](https://www.kaggle.com/c/iwildcam-2020-fgvc7/overview), our 3rd annual camera trap kaggle competition associated with the seventh [Fine-Grained Visual Categorization (FGVC)](https://sites.google.com/corp/view/fgvc7) Workshop at CVPR2020.
+Launched [iWildCam 2020](https://www.kaggle.com/c/iwildcam-2020-fgvc7/overview), our 3rd annual camera trap kaggle competition associated with the seventh [Fine-Grained Visual Categorization (FGVC)](https://sites.google.com/corp/view/fgvc7) Workshop at CVPR 2020.
 
 ## 3/2/20
 Presented our work [*Synthetic Examples Improve Generalization for Rare Classes*](http://openaccess.thecvf.com/content_WACV_2020/papers/Beery_Synthetic_Examples_Improve_Generalization_for_Rare_Classes_WACV_2020_paper.pdf) at WACV2020.
