@@ -4,8 +4,11 @@ title: "News"
 permalink: "/news.html"
 ---
 
+## 6/28/20
+Yannic Kilcher posted a fantastic video walkthrough of our paper: [*Context R-CNN: Long Term Temporal Context for Per-Camera Object Detection (Paper Explained)*](https://www.youtube.com/watch?v=eI8xTdcZ6VY&feature=youtu.be).
+
 ## 6/26/20
-Published a Google AI Blog post about the Context R-CNN architecture, titled[*Leveraging Temporal Context for Object Detection*](https://ai.googleblog.com/2020/06/leveraging-temporal-context-for-object.html).
+Published a Google AI Blog post about the Context R-CNN architecture, titled [*Leveraging Temporal Context for Object Detection*](https://ai.googleblog.com/2020/06/leveraging-temporal-context-for-object.html).
 
 ## 6/25/20
 Gave an invited WILDLABS Tech Tutorial titled *How do I get started using machine learning for my camera traps?*, recording available [here](https://www.youtube.com/watch?v=5q0amc-i1Jk).
