@@ -4,6 +4,9 @@ title: "News"
 permalink: "/news.html"
 ---
 
+## 8/4/20
+Gave an invited talk at the virtual Ecological Society of America 2020 Meeting, [*Improving computer vision for camera traps: Leveraging practitioner knowledge to build better models*](https://eco.confex.com/eco/2020/meetingapp.cgi/Paper/82202), as part of a session on Deep Learning for Image Analysis in Ecology.
+
 ## 6/28/20
 Yannic Kilcher posted a fantastic video walkthrough of our paper: [*Context R-CNN: Long Term Temporal Context for Per-Camera Object Detection (Paper Explained)*](https://www.youtube.com/watch?v=eI8xTdcZ6VY&feature=youtu.be).
 
