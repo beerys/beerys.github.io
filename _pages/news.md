@@ -5,7 +5,7 @@ permalink: "/news.html"
 ---
 
 ## 12/15/20 
-Was accepted to the inaugeral [Rising Stars in Data Science Workshop](https://cdac.uchicago.edu/rising-stars/#description) to be held at the Center for Data and Computing (CDAC) at the University of Chicago in January 2021.
+Was accepted to the inaugural [Rising Stars in Data Science Workshop](https://cdac.uchicago.edu/rising-stars/#description) to be held at the Center for Data and Computing (CDAC) at the University of Chicago in January 2021.
 
 ## 11/30/20
 Gave an invited seminar titled *Towards Global-scale Biodiversity Monitoring: Scaling Spatial and Taxonomic Covergae Using Contextual Clues* at Microsoft Research Cambridge.
