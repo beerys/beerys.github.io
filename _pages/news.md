@@ -4,6 +4,18 @@ title: "News"
 permalink: "/news.html"
 ---
 
+## 12/15/20 
+Was accepted to the inaugeral [Rising Stars in Data Science Workshop](https://cdac.uchicago.edu/rising-stars/#description) to be held at the Center for Data and Computing (CDAC) at the University of Chicago in January 2021.
+
+## 11/30/20
+Gave an invited seminar titled *Towards Global-scale Biodiversity Monitoring: Scaling Spatial and Taxonomic Covergae Using Contextual Clues* at Microsoft Research Cambridge.
+
+## 11/16/20
+Gave a plenary talk on *Deep Learning + Camera Traps* at the [Imaginecology Workshop](https://imaginecology.sciencesconf.org/).
+
+## 10/17/20
+Gave a talk on global-scale biodiversity monitoring and a tutorial on working with data from static monitoring sensors at the [CompSust Doctoral Consortium](http://www.compsust.net/compsust-2020/program.php).
+
 ## 8/4/20
 Gave an invited talk at the virtual Ecological Society of America 2020 Meeting, [*Improving computer vision for camera traps: Leveraging practitioner knowledge to build better models*](https://eco.confex.com/eco/2020/meetingapp.cgi/Paper/82202), as part of a session on Deep Learning for Image Analysis in Ecology.
 
