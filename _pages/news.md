@@ -4,8 +4,14 @@ title: "News"
 permalink: "/news.html"
 ---
 
+## 1/11/20 
+Honored to have been awarded an [Amazon/Caltech AI4Science Fellowship](https://cms.caltech.edu/academics/honors#amazon). This fellowship recognizes graduate students and postdoctoral scholars that have had a remarkable impact in machine learning and artificial intelligence, and in their application to fields beyond computer science
+
 ## 12/15/20 
-Was accepted to the inaugural [Rising Stars in Data Science Workshop](https://cdac.uchicago.edu/rising-stars/#description) to be held at the Center for Data and Computing (CDAC) at the University of Chicago in January 2021.
+Was named a [Rising Star in Data Science](https://cdac.uchicago.edu/rising-stars/#description) by the Center for Data and Computing (CDAC) at the University of Chicago in January 2021.
+
+## 12/10/20 
+Honored to have been awarded a [PIMCO Fellowship in Data Science](https://cms.caltech.edu/academics/honors#pimco). This fellowship recognizes and supports graduate students and postdoctoral scholars that have had a remarkable impact in data science, broadly defined, and its application to the social sciences.
 
 ## 11/30/20
 Gave an invited seminar titled *Towards Global-scale Biodiversity Monitoring: Scaling Spatial and Taxonomic Covergae Using Contextual Clues* at Microsoft Research Cambridge.
