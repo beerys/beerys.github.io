@@ -7,6 +7,9 @@ permalink: "/news.html"
 ## 3/10/21
 The [iWildCam 2021 Competition](https://www.kaggle.com/c/iwildcam2021-fgvc8) is now live! This year we go beyond single-frame detection and species categorization to counting individuals of each species across image bursts.
 
+## 2/20/21
+Gave an invited seminar titled *CV for Global-scale Biodiversity Monitoring: Scaling Spatial and Taxonomic Covergae Using Contextual Clues* at Microsoft Research Cambridge.
+
 ## 1/11/21 
 Honored to have been awarded an [Amazon/Caltech AI4Science Fellowship](https://cms.caltech.edu/academics/honors#amazon). This fellowship recognizes graduate students and postdoctoral scholars that have had a remarkable impact in machine learning and artificial intelligence, and in their application to fields beyond computer science
 
