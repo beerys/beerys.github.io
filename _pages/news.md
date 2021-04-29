@@ -4,6 +4,13 @@ title: "News"
 permalink: "/news.html"
 ---
 
+
+## 4/28/2021
+Invited to speak on a panel at *Out in Technology and Math*, a UCSD event for LGBTQ + STEM students
+
+## 4/17/2021
+Gave an invited tech talk titled *AI for Wildlife Conservation* for [AI for Mankind](https://aiformankind.org/).
+
 ## 3/10/21
 The [iWildCam 2021 Competition](https://www.kaggle.com/c/iwildcam2021-fgvc8) is now live! This year we go beyond single-frame detection and species categorization to counting individuals of each species across image bursts.
 
