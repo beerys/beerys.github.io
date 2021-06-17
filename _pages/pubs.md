@@ -159,7 +159,39 @@ ICIP 2016, Phoenix, Arizona
   
 ## Workshop Papers and Talks
 
+---
+### "The iWildCam 2021 Competition Dataset"
+Sara Beery, Elizabeth Bondi, Arushi Agarwal, Elijah Cole, Vighnesh Birodkar  
+[The Eighth Fine-Grained Visual Categorization Workshop](https://sites.google.com/corp/view/fgvc8) at CVPR2021, Virtual   
 
+---
+### "Can poachers find animals from public camera trap images?"
+Sara Beery*, Elizabeth Bondi*  
+[CV4Animals](https://www.cv4animals.com/) at CVPR2021, Virtual   
+Poster
+
+---
+### "Image-to-Image Translation for Synthetic Samples of Rare Classes"
+Edoardo Lanzini, Sara Beery   
+[CV4Animals](https://www.cv4animals.com/) at CVPR2021, Virtual   
+Poster
+
+---
+### "Automated Salmonid Counting in Sonar Data"
+Peter Kulits, Angelina Pan, Grant Van Horn, Sara Beery, Erik Young, Pietro Perona  
+[ClimateChangeAI](https://www.climatechange.ai/events/neurips2020) at NeurIPS2020, Virtual   
+Poster
+
+---
+### "WILDS: A Survey and Benchmark of in-the-Wild Distribution Shifts"
+Pang Wei Koh, Shiori Sagawa, Henrik Marklund, Sang Michael Xie, Marvin Zhang, Akshay Balsubramani, Weihua Hu, Michihiro Yasunaga, Richard Lanas Phillips, Irena Gao, Tony Lee, Etienne David, Ian Stavness, Wei Guo, Berton A. Earnshaw, Imran S. Haque, Sara Beery, Jure Leskovec, Anshul Kundaje, Emma Pierson, Sergey Levine, Chelsea Finn, Percy Liang   
+[Workshop on  ML Retrospectives, Surveys \& Meta-Analyses](https://ml-retrospectives.github.io/neurips2020/) at NeurIPS2020, Virtual   
+Poster
+
+---
+### "The iWildCam 2020 Competition Dataset"
+Sara Beery, Elijah Cole, Arvi Gjoka  
+[The Seventh Fine-Grained Visual Categorization Workshop](https://sites.google.com/corp/view/fgvc7) at CVPR2020, Virtual 
 
 ---
 ### "Animal Re-ID from Camera Traps: Can We Deal with Low-Quality Data?"
