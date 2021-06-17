@@ -5,9 +5,76 @@ permalink: "/pubs.html"
 
 ---
 
+### "Scaling Biodiversity Monitoring for the Data Age."
+Sara Beery
+ACM XRDS Special Issue on Sustainability.
+
+---
+
+### "Species Distribution Modeling for Machine Learning Practitioners: A Review"
+Sara Beery, Elijah Cole, Kevin Winner, Joseph Parker, Pietro Perona
+ACM COMPASS 2021, Virtual 
+
+---
+
+### "ElephantBook: A Semi-Automated Human-in-the-Loop System for Elephant Re-Identification."
+Peter Kulits, Jake Wall, Anka Bedetti, Michelle Henley, Sara Beery
+ACM COMPASS 2021, Virtual 
+
+---
+
+### "Wilds: A benchmark of in-the-wild distribution shifts"
+Pang Wei Koh, Shiori Sagawa, Henrik Marklund, Sang Michael Xie, Marvin Zhang, Akshay Balsubramani, Weihua Hu, Michihiro Yasunaga, Richard Lanas Phillips, Irena Gao, Tony Lee, Etienne David, Ian Stavness, Wei Guo, Berton A. Earnshaw, Imran S. Haque, Sara Beery, Jure Leskovec, Anshul Kundaje, Emma Pierson, Sergey Levine, Chelsea Finn, Percy Liang 
+ICML 2021, Virtual 
+[[arxiv](https://arxiv.org/abs/2012.07421)]
+```
+@article{koh2020wilds,
+  title={Wilds: A benchmark of in-the-wild distribution shifts},
+  author={Koh, Pang Wei and Sagawa, Shiori and Marklund, Henrik and Xie, Sang Michael and Zhang, Marvin and Balsubramani, Akshay and Hu, Weihua and Yasunaga, Michihiro and Phillips, Richard Lanas and Gao, Irena and others},
+  journal={arXiv preprint arXiv:2012.07421},
+  year={2020}
+}
+```
+
+---
+
+### "Benchmarking Representation Learning for Natural World Image Collections"
+Grant Van Horn, Elijah Cole, Sara Beery, Kimberly Wilber, Serge Belongie, Oisin Mac Aodha  
+CVPR 2021, Virtual 
+[[arxiv](https://arxiv.org/abs/1912.03538)]
+```
+@article{van2021benchmarking,
+  title={Benchmarking Representation Learning for Natural World Image Collections},
+  author={Van Horn, Grant and Cole, Elijah and Beery, Sara and Wilber, Kimberly and Belongie, Serge and Mac Aodha, Oisin},
+  journal={arXiv preprint arXiv:2103.16483},
+  year={2021}
+}
+```
+
+---
+
+### "A Deep Active Learning System for Species Identification and Counting in Camera Trap Images"
+Mohammad Sadegh Norouzzadeh, Dan Morris, Sara Beery, Neel Joshi, Nebojsa Jojic, Jeff Clune  
+Methods in Ecology and Evolution (2021)
+[[arxiv](https://arxiv.org/abs/1910.09716)]
+```
+@article{norouzzadeh2021deep,
+  title={A deep active learning system for species identification and counting in camera trap images},
+  author={Norouzzadeh, Mohammad Sadegh and Morris, Dan and Beery, Sara and Joshi, Neel and Jojic, Nebojsa and Clune, Jeff},
+  journal={Methods in Ecology and Evolution},
+  volume={12},
+  number={1},
+  pages={150--161},
+  year={2021},
+  publisher={Wiley Online Library}
+}
+```
+
+---
+
 ### "Context R-CNN: Long Term Temporal Context for Per-Camera Object Detection"
 Sara Beery, Guanhang Wu, Vivek Rathod, Ronny Votel, Jonathan Huang  
-CVPR 2020, Seattle, Washington  
+CVPR 2020, Virtual  
 [[pdf](/assets/papers/Beery_Context_R-CNN_Long_Term_Temporal_Context_for_Per-Camera_Object_Detection_CVPR_2020_paper.pdf)]  
 [[arxiv](https://arxiv.org/abs/1912.03538)]
 ```
@@ -34,20 +101,6 @@ WACV 2020, Aspen, Colorado
   booktitle={The IEEE Winter Conference on Applications of Computer Vision},
   pages={863--873},
   year={2020}
-}
-```
-
----
-
-### "A Deep Active Learning System for Species Identification and Counting in Camera Trap Images"
-Mohammad Sadegh Norouzzadeh, Dan Morris, Sara Beery, Neel Joshi, Nebojsa Jojic, Jeff Clune  
-[[arxiv](https://arxiv.org/abs/1910.09716)]
-```
-@article{norouzzadeh2019deep,
-  title={A deep active learning system for species identification and counting in camera trap images},
-  author={Norouzzadeh, Mohammad Sadegh and Morris, Dan and Beery, Sara and Joshi, Neel and Jojic, Nebojsa and Clune, Jeff},
-  journal={arXiv preprint arXiv:1910.09716},
-  year={2019}
 }
 ```
 
@@ -105,6 +158,8 @@ ICIP 2016, Phoenix, Arizona
   
   
 ## Workshop Papers and Talks
+
+
 
 ---
 ### "Animal Re-ID from Camera Traps: Can We Deal with Low-Quality Data?"
