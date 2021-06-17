@@ -6,25 +6,25 @@ permalink: "/pubs.html"
 ---
 
 ### "Scaling Biodiversity Monitoring for the Data Age."
-Sara Beery
+Sara Beery  
 ACM XRDS Special Issue on Sustainability.
 
 ---
 
 ### "Species Distribution Modeling for Machine Learning Practitioners: A Review"
-Sara Beery, Elijah Cole, Kevin Winner, Joseph Parker, Pietro Perona
+Sara Beery, Elijah Cole, Kevin Winner, Joseph Parker, Pietro Perona  
 ACM COMPASS 2021, Virtual 
 
 ---
 
 ### "ElephantBook: A Semi-Automated Human-in-the-Loop System for Elephant Re-Identification."
-Peter Kulits, Jake Wall, Anka Bedetti, Michelle Henley, Sara Beery
+Peter Kulits, Jake Wall, Anka Bedetti, Michelle Henley, Sara Beery  
 ACM COMPASS 2021, Virtual 
 
 ---
 
 ### "Wilds: A benchmark of in-the-wild distribution shifts"
-Pang Wei Koh, Shiori Sagawa, Henrik Marklund, Sang Michael Xie, Marvin Zhang, Akshay Balsubramani, Weihua Hu, Michihiro Yasunaga, Richard Lanas Phillips, Irena Gao, Tony Lee, Etienne David, Ian Stavness, Wei Guo, Berton A. Earnshaw, Imran S. Haque, Sara Beery, Jure Leskovec, Anshul Kundaje, Emma Pierson, Sergey Levine, Chelsea Finn, Percy Liang 
+Pang Wei Koh, Shiori Sagawa, Henrik Marklund, Sang Michael Xie, Marvin Zhang, Akshay Balsubramani, Weihua Hu, Michihiro Yasunaga, Richard Lanas Phillips, Irena Gao, Tony Lee, Etienne David, Ian Stavness, Wei Guo, Berton A. Earnshaw, Imran S. Haque, Sara Beery, Jure Leskovec, Anshul Kundaje, Emma Pierson, Sergey Levine, Chelsea Finn, Percy Liang  
 ICML 2021, Virtual 
 [[arxiv](https://arxiv.org/abs/2012.07421)]
 ```
