@@ -2633,7 +2633,7 @@ input, select, textarea {
 			input[type="reset"].primary:active,
 			input[type="button"].primary:active,
 			.button.primary:active {
-				background-color: #39c29d;
+				background-color: #06537d;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
